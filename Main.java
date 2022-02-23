@@ -31,3 +31,11 @@ class Main {
         System.out.println("Easy Way Decimal value: " + easy(binaryStr));
     }
 }
+
+/**
+ * Input: A12
+ * Output: 
+ *      Hard way Decimal value: 2578
+ *      Easy way Decimal value: 2578
+ */
+*/
