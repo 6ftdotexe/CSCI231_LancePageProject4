@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=hex
+comment1.target=int\ hard(java.lang.String)
+comment2.params=str
+comment2.target=int\ easy(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
