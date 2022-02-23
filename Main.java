@@ -38,4 +38,3 @@ class Main {
  *      Hard way Decimal value: 2578
  *      Easy way Decimal value: 2578
  */
-*/
