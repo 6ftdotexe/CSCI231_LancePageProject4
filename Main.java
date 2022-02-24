@@ -33,8 +33,8 @@ class Main {
 }
 
 /**
- * Input: A12
+ * Input: A12, C4, F4
  * Output: 
- *      Hard way Decimal value: 2578
- *      Easy way Decimal value: 2578
+ *      Hard way Decimal value: 2578, 196, 244
+ *      Easy way Decimal value: 2578, 196, 244
  */
